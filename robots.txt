@@ -1,1 +1,2 @@
 User-agent: *
+Sitemap: https://madugurahfitasli.com/sitemap.xml
